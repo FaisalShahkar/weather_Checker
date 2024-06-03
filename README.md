@@ -9,6 +9,10 @@ Weather Checker is a simple Python application that retrieves and displays weath
 - Provides humidity and atmospheric pressure readings.
 - Converts and displays wind speed from meters per second to kilometers per hour.
 - Predicts the probability of rain based on humidity and pressure values.
+- Retrieves and saves weather data for major cities across Pakistan.
+- Converts collected weather data into a well-structured Excel file with pandas and openpyxl.
+- Identifies and displays the cities with the highest and lowest temperatures, as well as the city with the highest probability of rain.
+  
 
 ## Installation
 
